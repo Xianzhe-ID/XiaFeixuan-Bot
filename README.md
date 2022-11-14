@@ -15,6 +15,10 @@
  <a href="#"><img title="XiaFeixuan-BOT" src="https://img.shields.io/badge/XiaFeixuan--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+### Repo Stats 
+
+![instagram : xianzhe_xx](https://github-readme-stats.vercel.app/api/pin/?username=Xianzhe-ID&repo=XiaFeixuan-Bot&theme=dark)
+
 ## Ambil Session Disini
 
 > Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
